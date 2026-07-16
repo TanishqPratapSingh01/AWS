@@ -309,4 +309,4 @@ AWS (Amazon Web Services) is a cloud computing platform that enables developers 
 It provides services such as virtual servers, storage, databases, networking, security, and monitoring, allowing applications to scale efficiently while reducing infrastructure costs.
 
 AWS is widely used in modern software development, DevOps, and CI/CD pipelines because it offers reliable, secure, and globally accessible cloud services.
-![aws](image.png)
+![alt text](image.png)
